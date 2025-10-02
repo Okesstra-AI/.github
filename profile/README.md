@@ -1,5 +1,7 @@
 ## Hi there 👋
+Welcome to Okesstra AI Hub where ideas to real world projects are composed and born to reimagine enterprise with PURPOSEFUL customer value chain that are orchestrated with agentic AI to (autonously, as much as possible, assisted with HITL) deliver impactful business outcomes.
 
+Coming soon with more details as we get all these documented with the live products...
 <!--
 
 **This is the home for all Okesstra AI related artifacts and projects. 
